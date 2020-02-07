@@ -1,0 +1,100 @@
+Mac
+PC
+Coke
+Pepsi
+Winter
+Summer
+Batman
+Spiderman
+Today
+Tomorrow
+Paper
+Plastic
+Football
+Baseball
+Apples
+Oranges
+Left
+Right
+Blonds
+Brunettes
+Ginger
+Mary Ann
+Army
+Navy
+Rock
+Country
+Heads
+Tails
+Smoking
+Non-Smoking
+Sandals
+Sneakers
+Red
+White
+Window
+Aisle
+Apple
+Android
+Pen
+Pencil
+Chevy
+Ford
+Coffee
+Tea
+Sink
+Swim
+Java
+C
+Sushi
+Hibachi
+Lead
+Follow
+Lover
+Fighter
+Star Trek
+Star Wars
+East Coast
+West Coast
+Top Down
+Bottom Up
+Books
+Movies
+Cake
+Pie
+Checkers
+Chess
+Cats
+Dogs
+Money
+Fame
+Sunrise
+Sunset
+Peanut Butter
+Jelly
+Spicy
+Mild
+Fiction
+Non-Fiction
+Harry Potter
+Lord of the Rings
+Fried
+Grilled
+Water Skiing
+Snow Skiing
+Half Empty
+Half Full
+White
+Wheat
+Mustard
+Ketchup
+Type A
+Type B
+Debit
+Credit
+Boiled
+Scrambled
+Salty
+Sweet
+Grass
+Sand
